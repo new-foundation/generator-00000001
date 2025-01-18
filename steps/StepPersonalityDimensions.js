@@ -1,2 +1,8 @@
-import React from "react";
-export default function StepPersonalityDimensions() { return <div>Step 1</div>; }
+function StepPersonalityDimensions() {
+    return (
+        <div className="step-container">
+            <h2>Step 1: Personality Dimensions</h2>
+            <p>This is step 1 content</p>
+        </div>
+    );
+}
