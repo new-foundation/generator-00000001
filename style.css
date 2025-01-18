@@ -1,0 +1,23 @@
+/* Overall page setup */
+body {
+  margin: 0;
+  background-color: #000;
+  color: #fff;
+  font-family: Arial, sans-serif;
+  font-weight: 400; 
+  line-height: 1.7;
+  font-size: 16px; 
+}
+.container {
+  max-width: 1000px;
+  margin: 0 auto;
+  padding: 3rem;
+}
+.step-container {
+  background: #111;
+  border-radius: 12px;
+  padding: 3rem;    
+  margin-bottom: 3rem;
+  border: 1px solid rgba(255,255,255,0.2);
+}
+/* Additional styles omitted */
